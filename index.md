@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Ferrell's Disposal Service, LLC'
+landing-title: "Ferrell's Disposal Service, LLC"
 description: null
 image: null
 author: null
