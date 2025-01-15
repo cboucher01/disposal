@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Ferrell's Disposal Service, LLC'
 description: null
 image: null
 author: null
