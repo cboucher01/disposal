@@ -11,7 +11,7 @@ city: Pedricktown
 state: NJ
 zip_code: 08067
 country: United States of America
-phone: (800)522-9397
+phone: (800) 522-9397
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
