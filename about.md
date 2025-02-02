@@ -1,7 +1,7 @@
 ---
 title: About Us
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description:
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -12,77 +12,19 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Based out of Pedricktown NJ, Ferrell's Disposal Service serves Cumberland, Salem, and Gloucester counties. Our small yet dedicated garbage collection company is committed to providing efficient and reliable waste disposal services to our local communities.</p>
+		<p>At Ferrell’s Disposal, we understand the importance of environmental preservation and community well-being. That’s why we’ve tailored our services to meet the unique needs of our neighbors, ensuring that every household and business receives the attention and care they deserve.</p>
+		<p>From weekly residential pickups to specialized commercial waste solutions, our team is equipped with the expertise and resources to handle any job, big or small. We prioritize efficiency without compromising on quality, utilizing state-of-the-art equipment and eco-friendly practices to minimize our environmental footprint.</p>
+		<p>What sets Ferrell’s Disposal apart is our personalized approach and unwavering dedication to customer satisfaction. We’re not just a garbage collection company; we’re your neighbors, your partners and allies in creating a cleaner, healthier environment for all.</p>
+		<p>Join us in our mission to keep Southern New Jersey beautiful, one pickup at a time. Together, we can make a difference.</p>
 	</div>
 </section>
 
 <!-- Two -->
-<section id="two" class="spotlights">
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Orci maecenas</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<!--
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-				-->
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<!--
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-				-->
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<!--
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-				-->
-		</div>
-	</section>
-</section>
-
-<!-- Three -->
-<section id="three">
+<section id="two">
 	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Ferrell’s Disposal Services is a division of <a href="https://lacysexpress.com/">Lacy’s Express Inc.</a>, along with its sister company of <a href="https://wmferrellsoil.com">W.H. Ferrell’s Oil & Gas Service, Inc.</a> Both companies started in the 1960s and are family owned and operated.</p>
+		<p>Currently, this local business employs several company drivers that are supported by an office staff and trained shop mechanics. The fleet size consists of several company owned late-model vehicles and is supported by an emergency response/service vehicle.</p>
 	</div>
 </section>
 

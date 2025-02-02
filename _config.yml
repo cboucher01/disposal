@@ -3,15 +3,15 @@ title: Ferrell's Disposal Service, LLC
 subtitle:
 email:
 description: Business and residential waste disposal service based in South Jersey.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: /disposal # the subpath of your site, e.g. /blog
+url: https://cboucher01.github.io/ # the base hostname & protocol for your site
 author:
 street_address: 26 East Mill Street
 city: Pedricktown
 state: NJ
 zip_code: 08067
 country: United States of America
-phone: (800) 522-9397
+phone: (856) 299-1192
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
