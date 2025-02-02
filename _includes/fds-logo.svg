@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1583.6 460.14">
+<svg {% if include.purpose == "heading" %}aria-labelledby="title-text" focusable="false"{% endif %} xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1583.6 460.14">
+  <title id="title-text">Ferrell's Disposal Service, LLC</title>
   <defs>
     <style>
       .cls-1 {
