@@ -1,6 +1,6 @@
 ---
 title: About Us
-layout: page
+layout: post
 description:
 image: assets/images/disposal-trucks2.webp
 nav-menu: true
