@@ -1,6 +1,6 @@
 # site settings
-title: Ferrell's Disposal Service, LLC
-subtitle:
+title: Ferrell's Disposal Service
+subtitle: LLC
 email:
 description: Business and residential waste disposal service based in South Jersey.
 baseurl: /disposal # the subpath of your site, e.g. /blog
