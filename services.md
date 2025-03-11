@@ -54,6 +54,10 @@ jobs, landscaping projects, storm cleanup,  demolitions, etc.
 				<td>30-yard Roll-off</td>
 				<td><img src="{{ 'assets/images/rolloff-30yd.jpg' | relative_url }}" alt="A black 30-yard roll-off dumpster"></td>
 			</tr>
+			<tr>
+				<td>Compactor</td>
+				<td><img src="{{ 'assets/images/compactor-1.jpg' | relative_url }}" alt="A black trash compactor."></td>
+			</tr>
 		</tbody>
 	</table>
 </div>
