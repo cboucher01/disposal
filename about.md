@@ -2,7 +2,7 @@
 title: About Us
 layout: post
 description:
-image: assets/images/disposal-trucks-3.jpeg
+image: assets/images/disposal-trucks-3.jpg
 nav-menu: true
 ---
 
