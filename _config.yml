@@ -3,8 +3,8 @@ title: Ferrell's Disposal Service
 subtitle: LLC
 email: jferrell@ferrellsdisposal.com
 description: Business and residential waste disposal service based in South Jersey.
-baseurl: /disposal # the subpath of your site, e.g. /blog
-url: https://cboucher01.github.io # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: https://ferrellsdisposal.com # the base hostname & protocol for your site
 author:
 street_address: 26 East Mill Street
 city: Pedricktown
