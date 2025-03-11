@@ -74,6 +74,7 @@
 	input[type="password"],
 	input[type="email"],
 	input[type="tel"],
+	input[type="phone number"],
 	select,
 	textarea {
 		@include vendor('appearance', 'none');
